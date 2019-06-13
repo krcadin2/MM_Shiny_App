@@ -10,9 +10,7 @@ abstract: |
 date: "March 15, 2019"
 author:
   - Jovan Krcadinac - krcadin2
-  - Ameya Shahane - ameyaps2
-  - Danny Annese - annese2
-  - Do Yeop Kwon - dykwon2
+  
 bibliography: bibliography.bib
 output: 
   bookdown::pdf_document2
